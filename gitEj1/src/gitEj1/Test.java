@@ -6,7 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
         int numero;
         numero=9;
-        numero=77;
+        numero=778;
 	}
 
 }
